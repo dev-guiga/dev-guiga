@@ -30,12 +30,10 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
 
 <table align="center" border="0" cellspacing="0">
   <tr>
-    <!-- Coluna esquerda: Technologies -->
     <td  valign="center">
       <h2 align="start">🧩 Technologies</h2>
       <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css" />
     </td>
-    <!-- Coluna direita: Tools -->
     <td " valign="center">
       <h2 align="start">🛠️Tools</h2>
       <img src="https://skillicons.dev/icons?i=git,github,docker,postgres" />
