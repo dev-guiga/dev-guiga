@@ -21,6 +21,11 @@ jobs:
     permissions:
       contents: write
 
+cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -55,13 +60,6 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
-
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
       # generates a snake game from a github user contributions graph
       - name: generate github-contribution-grid-snake.svg
