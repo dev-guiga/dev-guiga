@@ -1,6 +1,10 @@
+ <div align="center" width="100%">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=top"/>
+</div>
+
 ## Hello, I am Guilherme Cataneo!
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="150px"/>
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyd2UzNWx4NXhlb2VrbmtodXZlbXFlNGFnM2Y1ejdteHhrMm4yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="90px"/>
 
 ```ruby
 My Profile
@@ -19,8 +23,8 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-guiga&show_icons=true&theme=radical" width="400" height="250" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guiga&layout=compact&theme=tokyonight" width="305" height="250" alt="Top Langs"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-guiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="80%" heigth="150px" alt="GitHub stats"/>
+    
   </div>
 
   <br>
@@ -71,3 +75,7 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecataneo02@gmail.com)
 
  📬 **Get in touch for collaborations, freelance work, or opportunities!**
+
+ <p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&&section=footer"/>
+</p>
