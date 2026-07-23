@@ -36,7 +36,7 @@ Hobbies: watching Anime, Listening music, play basketball and video games.
   <tr>
     <td  valign="center">
       <h2 align="start">🧩 Technologies</h2>
-      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,rails,html,css" />
+      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,rails" />
     </td>
     <td " valign="center">
       <h2 align="start">🛠️Tools</h2>
